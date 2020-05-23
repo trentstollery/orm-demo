@@ -1,13 +1,20 @@
 {
     "development": {
       "username": "root",
+<<<<<<< HEAD
       "password": "QAws10981093",
+=======
+      "password": null,
+>>>>>>> 2b1d55c1910978aaf8211af5919d210ff74b4a9d
       "database": "todolist",
       "host": "localhost",
       "port": 3306,
       "dialect": "mysql"
     },
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2b1d55c1910978aaf8211af5919d210ff74b4a9d
     "test": {
       "username": "root",
       "password": null,
@@ -15,7 +22,10 @@
       "host": "127.0.0.1",
       "dialect": "mysql"
     },
+<<<<<<< HEAD
     
+=======
+>>>>>>> 2b1d55c1910978aaf8211af5919d210ff74b4a9d
     "production": {
       "username": "root",
       "password": null,
